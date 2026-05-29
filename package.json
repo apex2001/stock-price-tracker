@@ -1,0 +1,24 @@
+{
+  "name": "stock-price-tracker",
+  "version": "1.0.0",
+  "description": "This project is currently planned and in progress. The goal is to build a full-stack real-time stock tracking dashboard that ingests live market data, processes streaming price events, stores historical snapshots, and visualizes stock movement through an interactive web interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex2001/stock-price-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apex2001/stock-price-tracker/issues"
+  },
+  "homepage": "https://github.com/apex2001/stock-price-tracker#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "typescript": "^6.0.3"
+  }
+}
